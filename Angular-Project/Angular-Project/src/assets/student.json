@@ -1,0 +1,78 @@
+{
+    "Student": [
+        {
+            
+                "name": "Kiran Rathod",
+                "age": 23,
+                "_id": "G2201",
+                "course": "FSD",
+                "gender": "Male",
+                "image": ""
+            },
+            {
+                "name": "Jayanth",
+                "age": 24,
+                "_id": "C5002",
+                "gender": "Male",
+                "course": "SpringBoot"
+            },
+            {
+                "name": "Juhi Birari",
+                "age": 23,
+                "_id": "C5003",
+                "gender": "Female",
+                "course": "Java Microservices"
+            },
+            {
+                "name": "Ganesh Manikanta",
+                "age": 23,
+                "_id": "C5004",
+                "course": "Angular",
+                "gender": "Male"
+    
+            },
+             {
+                "name": "Hemalatha",
+                "age": 23,
+                "_id": "C5009",
+                "gender": "Female",
+                "course": "Python "
+            },
+     
+             {
+                "name": "Sravani",
+                "age": 23,
+                "_id": "C5012",
+                "gender": "Female",
+                "course": "Junit "
+            },
+            {
+                "name": "Jyoti Bange",
+                "age": 23,
+                "_id": "C5015",
+                "gender": "Female",
+                "course": "C++ "
+            },
+             {
+                "name": "Jyoti Chaudhary",
+                "age": 23,
+                "_id": "C5016",
+                "gender": "Female",
+                "course": "Java "
+            },
+            {
+                "name": "Jitesh",
+                "age": 22,
+                "_id": "C5017",
+                "gender": "Male",
+                "course": "Selenium "
+            },
+            {
+                "name": "Kesansetti Babu",
+                "age": 23,
+                "_id": "C5018",
+                "gender": "Male",
+                "course": "Hibernate "
+        }
+    ]
+}
